@@ -5,15 +5,12 @@
 2. [Features](#features)
 3. [Languages](#languages)
 4. [Technologies](#technologies)
-5. [Installations](#installations)
-6. [Usage](#usage)
-7. [Run](#run)
 
 ## Overview
 This demonstrates a simple smart contract for supply chain management
 
 ## Features
-* Keeps track for items in the contract and their buyers
+* Keeps track of items in the smart contract and their buyers
 
 ## Languages
 * Solidity
