@@ -21,24 +21,4 @@ This demonstrates a simple smart contract for supply chain management
 
 ## Technologies
 * Ether JS
-
-## Installations
-```shell
-pip install scapy
-pip install pycryptodome
-```
-
-## Usage
-```python
-```
-
-## Run
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+* Alchemy
