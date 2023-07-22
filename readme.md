@@ -1,5 +1,7 @@
 # Smart Supply Chain Management
 
+![image](https://drive.google.com/uc?export=download&id=17PdwkRz0fqAI3vODy6VGcgSjoBZWd2CT)
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Features](#features)
